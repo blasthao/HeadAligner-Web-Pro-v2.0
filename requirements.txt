@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+shap
+matplotlib
+SimpleITK
+scipy
+seaborn
+Pillow
+pydicom
+pynetdicom
